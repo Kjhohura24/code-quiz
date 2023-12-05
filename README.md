@@ -5,6 +5,8 @@ Javascript Timed Quiz
 Creat a multiple choice quid on Javascript
 Track and keep scores and sort based on Initials
 
-Screenshots
+HTML and CSS files were proivded and were modified. 
 
-src = "./
+Screenshots have been attached 
+
+
